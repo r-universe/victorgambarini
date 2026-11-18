@@ -1,4 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/victorgambarini/victorgambarini.r-universe.dev
 	branch = HEAD
+[submodule "plasticdb"]
+	path = plasticdb
+	url = https://github.com/VictorGambarini/plasticdb-r
