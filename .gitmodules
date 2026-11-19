@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "plasticdb"]
 	path = plasticdb
-	url = https://github.com/VictorGambarini/plasticdb-r
+	url = https://github.com/VictorGambarini/plasticdb
